@@ -162,21 +162,21 @@
                                         </select>
                                     </td>
                                 </tr>
-                                <!-- <tr>
+                                <tr>
                                     <td>Nama Barang</td>
                                     <td><input type="text" placeholder="Nama Barang" required class="form-control"
                                             name="nama"></td>
-                                </tr> -->
+                                </tr>
                                 <tr>
                                     <td>Merk Barang</td>
                                     <td><input type="text" placeholder="Merk Barang" required class="form-control"
                                             name="merk"></td>
                                 </tr>
-                                <!-- <tr>
+                                <tr>
                                     <td>Harga Beli</td>
                                     <td><input type="number" placeholder="Harga beli" required class="form-control"
                                             name="beli"></td>
-                                </tr> -->
+                                </tr>
                                 <tr>
                                     <td>Harga Jual</td>
                                     <td><input type="number" placeholder="Harga Jual" required class="form-control"

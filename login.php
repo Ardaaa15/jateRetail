@@ -52,12 +52,12 @@
                         <!-- Nested Row within Card Body -->
 						<div class="p-5">
 							<div class="text-center">
-								<h4 class="h4 text-gray-900 mb-4"><b>Login CafeCabs</b></h4>
+								<h4 class="h4 text-gray-900 mb-4"><b>Login Jate Retail</b></h4>
 							</div>
 							<form class="form-login" method="POST">
 								<div class="form-group">
 									<input type="text" class="form-control form-control-user" name="user"
-										placeholder="User ID" autofocus>
+										placeholder="Username" autofocus>
 								</div>
 								<div class="form-group">
 									<input type="password" class="form-control form-control-user" name="pass"
@@ -65,7 +65,11 @@
 								</div>
 								<button class="btn btn-primary btn-block" name="proses" type="submit"><i
 										class="fa fa-lock"></i>
-									SIGN IN</button>
+									LOGIN</button>
+								<div class="text-center mt-3">
+									<small>Tidak punya akun? <a href="register.php">Daftar di sini</a></small>
+								</div>
+
 							</form>
 							<!-- <hr>
 							<div class="text-center">

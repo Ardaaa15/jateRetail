@@ -11,7 +11,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-cash-register"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Cafe Cabs<sup></sup></div>
+        <div class="sidebar-brand-text mx-3">jate retail<sup></sup></div>
     </a>
 
     <!-- Divider -->
